@@ -1,6 +1,6 @@
 {
   "name": "ngx-textarea-autosize2",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Angular 2+ directive to automatically control height textarea to fit content (updated for angular 9.1)",
   "scripts": {
     "ng": "ng",

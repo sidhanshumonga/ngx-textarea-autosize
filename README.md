@@ -1,5 +1,7 @@
-# ngx-textarea-autosize
+# ngx-textarea-autosize2
 Angular 2+ plugin to automatic height control of textarea to fit the content.
+
+This is fixed version of `ngx-textarea-autosize` created by Vladimir Evseev.
 
 ## Installation:
 
@@ -16,7 +18,7 @@ yarn add ngx-textarea-autosize
 Import module to your @NgModule:
 
 ```typescript
-import { TextareaAutosizeModule } from 'ngx-textarea-autosize';
+import { TextareaAutosizeModule } from 'ngx-textarea-autosize2';
 
 @NgModule({
   imports: [
